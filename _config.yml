@@ -136,17 +136,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FAF8F6"           # fondo suave crema
-text-col: "#2F2F2F"           # texto gris oscuro
-link-col: "#D87D4A"           # links en terracota suave
-hover-col: "#C15C2E"          # color al pasar el mouse, más intenso
-navbar-col: "#F3EFEC"         # navbar ligeramente contrastado
-navbar-text-col: "#2F2F2F"    # texto de navbar oscuro
-navbar-border-col: "#D0CBC8"  # borde sutil
-footer-col: "#F3EFEC"         # igual que navbar
-footer-text-col: "#6A6A6A"    # gris medio
-footer-link-col: "#2F2F2F"    # links en el footer
-footer-hover-col: "#C15C2E"   # hover terracota intenso
+page-col: "#FFF3E0"           # fondo durazno claro, más cálido y vibrante
+text-col: "#1E1E1E"           # negro suave, más contrastante
+link-col: "#FF6B00"           # naranja fuerte y moderno
+hover-col: "#CC5500"          # naranja más oscuro al pasar el mouse
+navbar-col: "#FFE0B2"         # beige cálido y vibrante para navbar
+navbar-text-col: "#1E1E1E"    # mantiene buen contraste
+navbar-border-col: "#FFB74D"  # borde naranja claro
+footer-col: "#FFE0B2"         # igual que navbar para cohesión
+footer-text-col: "#4A4A4A"    # gris oscuro para contraste medio
+footer-link-col: "#1E1E1E"    # enlaces fuertes y visibles
+footer-hover-col: "#CC5500"   # hover fuerte como el color principal
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
