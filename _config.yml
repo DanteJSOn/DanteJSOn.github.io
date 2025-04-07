@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Mi web de prueba
 
 # Your name to show in the footer
-author: Some Person
+author: Dante Joel Socualaya Olivera
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: Dante Socualaya
+  github: DanteJSOn
+  twitter: Nunca
+  patreon: Nunca
+  youtube: "@Nunca"
+  whatsapp: 66666666
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -67,7 +67,7 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: disaster
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -96,7 +96,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
   reddit: false
 
@@ -136,17 +136,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#FAF8F6"           # fondo suave crema
+text-col: "#2F2F2F"           # texto gris oscuro
+link-col: "#D87D4A"           # links en terracota suave
+hover-col: "#C15C2E"          # color al pasar el mouse, más intenso
+navbar-col: "#F3EFEC"         # navbar ligeramente contrastado
+navbar-text-col: "#2F2F2F"    # texto de navbar oscuro
+navbar-border-col: "#D0CBC8"  # borde sutil
+footer-col: "#F3EFEC"         # igual que navbar
+footer-text-col: "#6A6A6A"    # gris medio
+footer-link-col: "#2F2F2F"    # links en el footer
+footer-hover-col: "#C15C2E"   # hover terracota intenso
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
